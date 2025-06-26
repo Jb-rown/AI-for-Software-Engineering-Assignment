@@ -1,0 +1,3 @@
+Username,Password,Expected,Actual,Result,Screenshot
+admin@example.com,admin123,fail,error,Error,screenshots\1_admin@example.com_timeout.png
+,admin123,fail,error,Error,screenshots\2_blank_timeout.png
